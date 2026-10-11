@@ -2,7 +2,7 @@
 
 A robust, command-line **Student Management System** built in Python. This project demonstrates core **Object-Oriented Programming (OOP)** principles, **CRUD operations**, and **persistent file storage** using CSV files.
 
-## 🚀 Features
+## Features
 
 * **Create (Register):** Add new student records with validation for duplicate IDs and data types.
 * **Read (View & Search):** Display all registered students or search for specific records instantly by Student ID.
@@ -12,7 +12,7 @@ A robust, command-line **Student Management System** built in Python. This proje
 
 ---
 
-## 🛠️ Tech Stack & Concepts Applied
+## Tech Stack & Concepts Applied
 
 * **Language:** Python 3
 * **OOP Concepts:** Classes, instance methods, encapsulation, object composition (`StudentManagementSystem` managing a collection of `Student` objects).
@@ -21,7 +21,7 @@ A robust, command-line **Student Management System** built in Python. This proje
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 student-management-system/
