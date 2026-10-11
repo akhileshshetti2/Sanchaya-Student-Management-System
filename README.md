@@ -1,4 +1,4 @@
-# SANCHAYA Object-Oriented Student Management System
+# SANCHAYA: Object-Oriented Student Management System
 
 A robust, command-line **Student Management System** built in Python. This project demonstrates core **Object-Oriented Programming (OOP)** principles, **CRUD operations**, and **persistent file storage** using CSV files.
 
