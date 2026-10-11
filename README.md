@@ -33,8 +33,8 @@ student-management-system/
 How to Run?
 1. Clone the repository:
 Bash
-git clone [https://github.com/your-username/student-management-system.git](https://github.com/your-username/student-management-system.git)
-cd student-management-system
+git clone [https://github.com/akhileshshetti2/Sanchaya-Student-Management-System.git](https://github.com/akhileshshetti2/Sanchaya-Student-Management-System.git)
+cd Sanchaya-Student-Management-System
 
 2. Run the application:
 Bash
